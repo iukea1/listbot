@@ -2,12 +2,16 @@ Date taken 3/13/2019
 
 tip
 use 
-    - rm *.tmp
+
+`    - rm *.tmp
     - rm *.raw
+` 
 
 used the following command to get the following results 
-- md5sum --tag *.tmp
+ 
+ `md5sum --tag *.tmp`
 
+```
 MD5 (alienvault.tmp) = 7cbf6fa6b9714ff20fb966c107593c94
 MD5 (badips.tmp) = ad0d75bb5c251b765ca89ebda5784b7c
 MD5 (bambenek.tmp) = 89f6a91c11184e4085167217f9e4a9e7
@@ -18,7 +22,7 @@ MD5 (cinsscore.tmp) = e958b10dfc1bf987689ea41509e95986
 MD5 (et_compromised.tmp) = a6fab89e2ece4e9c75b374f165151c0f
 MD5 (feodotracker.tmp) = 49feb966a7100ac159ca8829ad6d1585
 MD5 (firehol_bitcoin.tmp) = 17b46a247284f12f5464849c65d7c17d
-MD5 (firehol_botscout.tmp) = 040d0641066e9115a785ba5812c5b89f
+MD5 (firehol_botscout.tmp) = 040d064S1066e9115a785ba5812c5b89f
 MD5 (firehol_cleantalk.tmp) = 2aff67ded900e14ee556f4aa2f9bbbab
 MD5 (firehol_cruzit.tmp) = 1f654047b26466bbb1c20459e46417c1
 MD5 (firehol_darklist.tmp) = 4b37a1013482ba3dfb80fa3706ea2aea
@@ -50,3 +54,4 @@ MD5 (torip.tmp) = 4ca7556367303ab8e73425a8b18be661
 MD5 (turris.tmp) = b0b9c68b5c4fc30eaaa600d354d36f6d
 MD5 (urlvir.tmp) = 241c6240c37f6523bac7fab72d06f8b4
 MD5 (zeustracker.tmp) = ceae323411aa8bf30b28547632bb0223
+```
