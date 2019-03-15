@@ -141,6 +141,7 @@ fuDOWNLOAD "http://www.ipspamlist.com/public_feeds.csv" "bad reputation" "spamli
 
 
 
+
 # Generate logstash translation map for ip reputation lookup
 echo -n "[ Building translation map ] "
 cat *.raw > $myIPREPMAP.tmp
