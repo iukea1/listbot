@@ -76,7 +76,7 @@ local myFILE=$1
 ### Define download function
 fuDOWNLOAD () {
 local myURL=$1
-local myTAG=$2,$3
+local myTAG=$3
 local myTMPFILE="$3.tmp"
 local myYAMLFILE="$3.raw"
 
