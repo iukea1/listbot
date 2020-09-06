@@ -12,10 +12,10 @@ myHOME=$(pwd)
 myDATE=$(date)
 
 # Build CVE Translation Map
-/opt/listbot/gen_cve_map.sh 2>&1 > $myHOME/cve_log.txt &
+/src/gen_cve_map.sh 2>&1 > $myHOME/cve_log.txt &
 
 # Build IP Rep. Translation Map
-/opt/listbot/gen_iprep_map.sh 2>&1 > $myHOME/iprep_log.txt &
+gen_iprep_map.sh 2>&1 > $myHOME/iprep_log.txt &
 
 # Wait for background jobs to finish
 wait
