@@ -1,5 +1,5 @@
 # Welcome to listbo!
-This is where the IP_Rep field in threatSpy is made.
+This is where the IP_Rep field in ThreatSpy is made.
 listbot
 
 
