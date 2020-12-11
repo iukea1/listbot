@@ -1,5 +1,5 @@
 #!/bin/bash
-myURL="https://rules.emergingthreats.net/open/suricata-5.0/rules/sid-msg.map"
+myURL="https://rules.emergingthreats.net/open/suricata-6.1/rules/sid-msg.map"
 myRULESFILE="sid-msg.map"
 myCVEMAP="cve.yaml"
 
