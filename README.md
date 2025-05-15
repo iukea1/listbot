@@ -1,4 +1,4 @@
-# Welcome to listbo!
+# Welcome to listbot!
 This is where the IP_Rep field in ThreatSpy is made.
 listbot
 
